@@ -1,0 +1,3 @@
+ERROR - 12:09:26: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 12:11:38: Convert SSA Project
+ERROR - 12:11:38: java.net.MalformedURLException: unknown protocol: pathmap
